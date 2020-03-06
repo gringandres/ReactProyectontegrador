@@ -4,7 +4,7 @@ import React from 'react'
 function NavbarComponent({ handleShow }) {
   return (
     <div>
-      <Navbar bg="dark" variant="dark">
+      <Navbar bg="light" variant="light">
         <Nav className="mr-auto">
           <Navbar.Brand href="#home">Ventas Medellin Classic</Navbar.Brand>
         </Nav>
